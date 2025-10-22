@@ -1,0 +1,106 @@
+wav2multi - Multi-Format Audio Transcoder
+Copyright 2025 Federico Pereira <fpereira@cnsoluciones.com>
+
+This product is licensed under the Apache License 2.0.
+See the LICENSE file for the full license text.
+
+================================================================================
+
+Project: wav2multi
+Author: Federico Pereira
+Email: fpereira@cnsoluciones.com
+Company: CNSoluciones - Telecommunications & VoIP Solutions
+Website: https://cnsoluciones.com
+Repository: https://github.com/lordbasex/wav2multi
+
+================================================================================
+
+THIRD-PARTY COMPONENTS
+
+This software includes or depends on the following third-party components:
+
+1. bcg729 (https://github.com/BelledonneCommunications/bcg729)
+   Copyright (C) 2015-2020 Belledonne Communications SARL
+   Licensed under GPLv3
+   Used for G.729 codec encoding
+
+2. go-wav (https://github.com/youpy/go-wav)
+   Copyright (c) 2013 youpy
+   Licensed under MIT License
+   Used for WAV file parsing
+
+3. go-audio/wav (https://github.com/go-audio/wav)
+   Copyright (c) 2016 Matt Aimonetti
+   Licensed under Apache License 2.0
+   Used for WAV file validation
+
+4. go-audio/audio (https://github.com/go-audio/audio)
+   Copyright (c) 2016 Matt Aimonetti
+   Licensed under Apache License 2.0
+   Used for audio processing
+
+================================================================================
+
+PATENT INFORMATION
+
+G.729 codec patents expired in 2017. This software uses G.729 encoding
+through the bcg729 library, which is free to use worldwide without royalties.
+
+The G.729 standard is defined by ITU-T Recommendation G.729.
+
+================================================================================
+
+TRADEMARKS
+
+"wav2multi" and "CNSoluciones" are trademarks of Federico Pereira.
+
+Use of these trademarks is permitted only to accurately refer to this project
+or the company. Any other use requires explicit written permission.
+
+================================================================================
+
+COMMERCIAL LICENSING
+
+This software is available under dual licensing:
+
+1. Open Source: Apache License 2.0 (this license)
+   - Free for personal, academic, and open source projects
+   - Requires attribution and inclusion of this NOTICE file
+
+2. Commercial License: Available for purchase
+   - No attribution requirements in your product
+   - Priority support and consulting
+   - Custom features and SLA
+   - Contact: fpereira@cnsoluciones.com
+
+For commercial licensing inquiries, custom development, or enterprise support:
+Email: fpereira@cnsoluciones.com
+Website: https://cnsoluciones.com
+
+================================================================================
+
+ATTRIBUTION REQUIREMENTS
+
+When using this software, you must:
+
+1. Include a copy of the LICENSE file
+2. Include a copy of this NOTICE file
+3. Retain all copyright notices in the source code
+4. State any changes you make to the software
+5. Provide attribution in documentation or about section:
+   "This product includes wav2multi by Federico Pereira (CNSoluciones)"
+
+================================================================================
+
+NO WARRANTY
+
+This software is provided "AS IS" without warranty of any kind.
+See the LICENSE file for complete warranty disclaimer.
+
+================================================================================
+
+For questions, support, or contributions, please visit:
+https://github.com/lordbasex/wav2multi
+
+Thank you for using wav2multi!
+
