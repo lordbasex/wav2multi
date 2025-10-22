@@ -3,7 +3,7 @@
 [![Docker Image](https://img.shields.io/docker/v/cnsoluciones/wav2multi?label=version)](https://hub.docker.com/r/cnsoluciones/wav2multi)
 [![Docker Pulls](https://img.shields.io/docker/pulls/cnsoluciones/wav2multi)](https://hub.docker.com/r/cnsoluciones/wav2multi)
 [![Docker Image Size](https://img.shields.io/docker/image-size/cnsoluciones/wav2multi/latest)](https://hub.docker.com/r/cnsoluciones/wav2multi)
-[![License](https://img.shields.io/badge/license-BSD--like-blue.svg)](https://github.com/lordbasex/wav2multi)
+[![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://github.com/lordbasex/wav2multi/blob/main/LICENSE)
 
 **Professional multi-format audio transcoder for VoIP telephony codecs**
 
